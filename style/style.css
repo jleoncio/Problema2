@@ -1,28 +1,23 @@
 #celeste{
     color: blue;
+    background-color: black;
 }
 
 #violeta{
     color:blueviolet;
+    background-color: rgb(91, 246, 86);
 }
 #naranja{
     color: orange;
+    background-color: purple;
 }
 #verde{
     color: green;
+    background-color: rgb(124, 39, 139);
 }
 .btn-start{
     background-color: yellow ;
     border-radius: 16px;
+
 }
 
-
-
-
-/* <div clas="gameboard">
-    <div id="celeste" class="color celeste left" data-color="celeste"> Celeste </div>
-    <div id="violeta" class="color violeta right" data-color="violeta"> Violeta </div>
-    <div id="naranja" class="color naranja left" data-color="naranja">Naranja  </div>
-    <div id="verde" class="color verde right" data-color="verde"> Verde </div>
-    <button iclass="btn-start" onclick="empezarJuego()">Empezar a jugar!</buton>
-<div> */
